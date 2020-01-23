@@ -1,0 +1,7 @@
+md5: bb34c3d54140aa76163b6bd04bd7742c
+outs:
+- md5: e30847816ea682bff507dca02db3e401.dir
+  path: train
+  cache: true
+  metric: false
+  persist: false
